@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sunnybhawsar
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Azure DevOps.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently practicing DSA.
 - 📫 Reach me at sunnybhawsar07@gmail.com
