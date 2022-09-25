@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunnybhawsar
-- 👀 I’m interested in Software Development.
+- 👨‍💻 I’m interested in Software Development.
 - 🌱 I’m currently practicing Low Level Design.
 - 📧 Reach me at  sunnybhawsar07@gmail.com
 - 🌐 Checkout  https://www.sunnybhawsar.in/
