@@ -6,4 +6,4 @@
 - 🌲 Know more  https://linktr.ee/sunnybhawsar
 - ⬇️ Download CV
 
-https://github.com/sunnybhawsar/sunnybhawsar.github.io/blob/master/assets/docs/Sunny%20Bhawsar%20-%20CV%20-%20Software%20Developer.pdf
+https://github.com/sunnybhawsar/sunnybhawsar.github.io/raw/master/assets/docs/Sunny%20Bhawsar%20-%20CV%20-%20Software%20Developer.pdf
